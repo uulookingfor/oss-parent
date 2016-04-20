@@ -11,7 +11,7 @@
         This is the common settings for maven projects to publish to Maven Central Repository,
         artifacts extend from this one can publish to the repo without any setting.
     </description>
-    <url>https://github.com/uulookingfor</url>
+    <url>https://github.com/uulookingfor/oss-parent.git</url>
 
     <licenses>
         <license>
@@ -24,14 +24,14 @@
         <developer>
             <name>tony.su</name>
             <email>uulookingfor@163.com</email>
-            <url>https://github.com/uulookingfor/</url>
+            <url>https://github.com/uulookingfor/oss-parent.git</url>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:</connection>
-        <developerConnection>scm:git:</developerConnection>
-        <url>https://github.com/uulookingfor</url>
+        <connection>scm:git:git@github.com:uulookingfor/oss-parent.git</connection>
+        <developerConnection>scm:git:git@github.com:uulookingfor/oss-parent.git</developerConnection>
+        <url>https://github.com/uulookingfor/oss-parent.git</url>
     </scm>
 
     <properties>
